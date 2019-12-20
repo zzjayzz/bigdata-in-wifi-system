@@ -1,0 +1,55 @@
+building,function,lat,long,cluster
+bldg1,Service center,59.34677,18.07293,0
+bldg10,school of electronic & PDC Center for High Performance Computing,59.34755,18.07298,1
+bldg11,"visualization studio,lecture hall and computer room",59.34736,18.07484,2
+bldg12,school of electronic & PDC Center for High Performance Computing,59.34767,18.07313,1
+bldg13,"visualization studio,lecture hall and computer room",59.34741,18.07504,2
+bldg13,school entrence and restaurant & information center,59.34753,18.07173,8
+bldg14,school of electronic & PDC Center for High Performance Computing,59.34756,18.07324,1
+bldg15,"visualization studio,lecture hall and computer room",59.34752,18.07459,2
+bldg16, School of Mechanics,59.34785,18.0735,1
+bldg17,"visualization studio,lecture hall and computer room",59.34732,18.07441,2
+bldg18,School of Mechanics,59.348,18.07342,1
+bldg18,School of Industrial Engineering and Management,59.348,18.07342,1
+bldg19,School of Engineering & school of math,59.34771,18.07469,2
+bldg2,Service center,59.3469,18.07254,0
+bldg21,library & meal & coffee,59.34806,18.07142,3
+bldg21,library & Department of Media Technology,59.34806,18.07142,3
+bldg22,"KTH Speech, Music and Hearing",59.34816,18.07478,4
+bldg23,School of Engineering & school of math,59.34769,18.07536,9
+bldg23,library & meal & coffee,59.34789,18.07172,3
+bldg24,"KTH Speech, Music and Hearing",59.34832,18.07477,4
+bldg25,School of Engineering & school of math,59.34785,18.07463,2
+bldg25,library & meal & coffee,59.3477,18.07227,1
+bldg26,Institute of Chemistry room,59.34853,18.07448,4
+bldg27, School of Mechanics,59.348,18.07379,1
+bldg28,Institute of Chemistry room,59.34855,18.07423,4
+bldg28,School of Industrial Engineering and Management,59.34901,18.07502,5
+bldg29,School of Electrical Engineering and Computer Science (EECS),59.34976,18.07232,10
+bldg3,Service center,59.34695,18.07327,0
+bldg30,Institute of Chemistry room,59.34833,18.0741,4
+bldg30,School of Industrial Engineering and Management,59.3491,18.07454,5
+bldg31,library & meal & coffee,59.34756,18.07271,1
+bldg31,School of Electrical Engineering and Computer Science (EECS),59.34945,18.07274,6
+bldg32,Institute of Chemistry room,59.34906,18.07401,5
+bldg33,library & meal & coffee,59.3481,18.07317,1
+bldg33,School of Electrical Engineering and Computer Science (EECS),59.3495,18.07345,11
+bldg34,Institute of Chemistry room,59.34877,18.07385,12
+bldg35,School of Electrical Engineering and Computer Science (EECS),59.35014,18.07327,13
+bldg36,Institute of Chemistry room,59.34923,18.07436,5
+bldg38,Institute of Chemistry &Greenhouse Labs ,59.34945,18.07501,7
+bldg38,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34945,18.07501,7
+bldg39, opera collage,59.35026,18.07259,14
+bldg4,Service center,59.34698,18.0726,0
+bldg4,school entrence and restaurant & information center,59.34688,18.07224,0
+bldg40,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34953,18.075,7
+bldg41,School of Electrical Engineering and Computer Science (EECS),59.34953,18.07269,6
+bldg42,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34951,18.07422,7
+bldg44,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34957,18.07473,7
+bldg46,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34974,18.07495,7
+bldg48,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34988,18.07482,7
+bldg5,Research Support Office,59.34689,18.07355,0
+bldg6,school entrence and restaurant & information center,59.34714,18.07272,0
+bldg7,Research Support Office,59.34664,18.07352,0
+bldg8,school of electronic & PDC Center for High Performance Computing,59.34743,18.07294,1
+bldg9,Research Support Office,59.34682,18.07416,15

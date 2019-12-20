@@ -1,0 +1,53 @@
+,building,function,lat,long,cluster,count,RSS
+8,bldg7,Research Support Office,59.34664,18.073520000000002,0,603594,-84.84292766799335
+9,bldg1,Service center,59.34676999999999,18.07293,0,699401,-84.84292766799335
+10,bldg4,school entrence and restaurant & information center,59.346880000000006,18.07224,0,403497,-84.84292766799335
+11,bldg5,Research Support Office,59.34689,18.07355,0,977647,-84.84292766799335
+12,bldg2,Service center,59.3469,18.07254,0,844620,-84.84292766799335
+13,bldg3,Service center,59.34695,18.07327,0,19463,-84.84292766799335
+14,bldg4,Service center,59.34698,18.0726,0,403497,-84.84292766799335
+15,bldg6,school entrence and restaurant & information center,59.34714,18.07272,0,10456,-84.84292766799335
+16,bldg8,school of electronic & PDC Center for High Performance Computing,59.34743,18.07294,1,197816,-83.08596518016256
+17,bldg10,school of electronic & PDC Center for High Performance Computing,59.34755,18.072979999999998,1,176499,-83.08596518016256
+18,bldg14,school of electronic & PDC Center for High Performance Computing,59.347559999999994,18.07324,1,954907,-83.08596518016256
+19,bldg31,library & meal & coffee,59.347559999999994,18.07271,1,121795,-83.08596518016256
+20,bldg12,school of electronic & PDC Center for High Performance Computing,59.347669999999994,18.07313,1,217557,-83.08596518016256
+21,bldg25,library & meal & coffee,59.3477,18.07227,1,22970,-83.08596518016256
+22,bldg16, School of Mechanics,59.34785,18.0735,1,674089,-83.08596518016256
+23,bldg18,School of Mechanics,59.348,18.073420000000002,1,86150,-83.08596518016256
+24,bldg18,School of Industrial Engineering and Management,59.348,18.073420000000002,1,86150,-83.08596518016256
+25,bldg27, School of Mechanics,59.348,18.07379,1,1704912,-83.08596518016256
+26,bldg33,library & meal & coffee,59.3481,18.07317,1,266832,-83.08596518016256
+27,bldg17,"visualization studio,lecture hall and computer room",59.347319999999996,18.07441,2,4601987,-83.08464400309003
+28,bldg11,"visualization studio,lecture hall and computer room",59.347359999999995,18.07484,2,621720,-83.08464400309003
+29,bldg13,"visualization studio,lecture hall and computer room",59.347409999999996,18.075039999999998,2,1590487,-83.08464400309003
+30,bldg15,"visualization studio,lecture hall and computer room",59.347519999999996,18.07459,2,134328,-83.08464400309003
+31,bldg19,School of Engineering & school of math,59.34771,18.07469,2,687688,-83.08464400309003
+32,bldg25,School of Engineering & school of math,59.34785,18.07463,2,22970,-83.08464400309003
+33,bldg23,library & meal & coffee,59.34789,18.071720000000003,3,88643,-85.21915655262741
+34,bldg21,library & meal & coffee,59.34806,18.07142,3,519925,-85.21915655262741
+35,bldg21,library & Department of Media Technology,59.34806,18.07142,3,519925,-85.21915655262741
+36,bldg22,"KTH Speech, Music and Hearing",59.34816,18.07478,4,128422,-79.01646485345628
+37,bldg24,"KTH Speech, Music and Hearing",59.348319999999994,18.07477,4,1169025,-79.01646485345628
+38,bldg30,Institute of Chemistry room,59.348330000000004,18.0741,4,54764,-79.01646485345628
+39,bldg26,Institute of Chemistry room,59.348530000000004,18.074479999999998,4,583731,-79.01646485345628
+40,bldg28,Institute of Chemistry room,59.34855,18.07423,4,123960,-79.01646485345628
+41,bldg28,School of Industrial Engineering and Management,59.34901,18.075020000000002,5,123960,-85.03372578276425
+42,bldg32,Institute of Chemistry room,59.349059999999994,18.07401,5,1789417,-85.03372578276425
+43,bldg30,School of Industrial Engineering and Management,59.3491,18.07454,5,54764,-85.03372578276425
+44,bldg36,Institute of Chemistry room,59.349230000000006,18.074360000000002,5,1764883,-85.03372578276425
+45,bldg31,School of Electrical Engineering and Computer Science (EECS),59.34945,18.07274,6,121795,-84.71031746031746
+46,bldg41,School of Electrical Engineering and Computer Science (EECS),59.34953,18.072689999999998,6,65670,-84.71031746031746
+47,bldg38,Institute of Chemistry &Greenhouse Labs ,59.34945,18.07501,7,40759,-85.1375
+48,bldg38,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34945,18.07501,7,40759,-85.1375
+49,bldg42,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.349509999999995,18.07422,7,116416,-85.1375
+50,bldg40,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34953,18.075,7,444711,-85.1375
+51,bldg44,Institute of Chemical Engineering &School of Chemical Science & Institute of Fiber & Polymer Technology,59.34956999999999,18.07473,7,5005,-85.1375
+1,bldg13,school entrence and restaurant & information center,59.347530000000006,18.07173,8,1590487,-83.42018837065713
+2,bldg23,School of Engineering & school of math,59.34769,18.07536,9,88643,-84.20545089830804
+5,bldg29,School of Electrical Engineering and Computer Science (EECS),59.349759999999996,18.07232,10,719306,-83.95575396825397
+4,bldg33,School of Electrical Engineering and Computer Science (EECS),59.3495,18.07345,11,266832,-85.08205782312926
+3,bldg34,Institute of Chemistry room,59.348769999999995,18.07385,12,812728,-83.94806397306397
+6,bldg35,School of Electrical Engineering and Computer Science (EECS),59.35014,18.07327,13,4,
+7,bldg39, opera collage,59.35026,18.072589999999998,14,1082199,
+0,bldg9,Research Support Office,59.346819999999994,18.07416,15,1002510,-82.11638737216953
